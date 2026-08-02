@@ -1190,6 +1190,17 @@ grid-template-columns:1fr;
 }
 
 }
+@media (max-width: 768px){
+
+    .video-grid{
+        padding: 30px 15px;
+    }
+
+    .video-card{
+        max-width: 100%;
+    }
+
+}
 /*=====================================
           LETTER PAGE
 ======================================*/
